@@ -1,5 +1,5 @@
-<h2> Hello 🙋‍♀️, I'm <a href='https://github.com/Shrutika252'>Shrutika</a> </h2>
-<img align="right" src="https://gpvc.arturio.dev/Shrutika252"><br>
+<h2> Hello 🙋‍♀️, I'm <a href='https://github.com/Shrutika252'>Shrutika</a><img align="right" src="https://gpvc.arturio.dev/Shrutika252"><br> </h2>
+
 <table align="center">
     <thead>
         <tr>
