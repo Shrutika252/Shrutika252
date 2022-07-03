@@ -3,7 +3,7 @@
 <table align="center">
     <thead>
         <tr>
-          <th colspan=2>Staistics</th>
+          <th colspan=2>Statistics</th>
           <th>Stay Tuned</th>
         </tr>
     </thead>
