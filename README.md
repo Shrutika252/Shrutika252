@@ -1,3 +1,4 @@
+<img src="https://rand-xyz.now.sh/api/hello">
 <h2> Hello 🙋‍♀️, I'm <a href='https://github.com/Shrutika252'>Shrutika</a><img align="right" src="https://gpvc.arturio.dev/Shrutika252"></h2>
 
 <table align="center">
