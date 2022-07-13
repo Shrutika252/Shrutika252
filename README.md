@@ -17,7 +17,7 @@
         </td>
         <td rowspan=3>
           <a href="#">
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=Shrutika252&theme=github_dark">
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=Shrutika252&theme=black-ice">
           </a>
         </td>
         <td>
