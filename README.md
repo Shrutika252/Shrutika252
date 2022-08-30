@@ -34,4 +34,5 @@
         </td>
       </tr>
     </tbody>
-</table>
+</table><br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Shrutika252&theme=react-dark&hide_border=true&area=true"/>
